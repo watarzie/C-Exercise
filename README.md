@@ -1,2 +1,2 @@
-# C-Exercise
+# OOP-Exercise
 C# Course Exercise
